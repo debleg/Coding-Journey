@@ -2,9 +2,11 @@
 title: DebLeg's Coding Journey
 description: Documenting my exploration of code and languages
 ---
-> Any attempt at learning is a *journey*.
-> If you're *dedicated* enough the journey never ends.
-> If you've got the *right mindset*, you'll never want it to.
+> Any attempt at learning is a *==journey==*.
+> 
+> If you're *==dedicated==* enough the journey never ends.
+> 
+> If you've got the *==right mindset==*, you'll never want it to.
 
 # This is a Dev Log
 
@@ -12,9 +14,9 @@ My intent is to **document my development as a developer**.
 
 ## Why do this?
 
-I won't just be developing *websites* and other *coding endeavours*, but also *myself*.
+I won't just be developing ==websites== and other ==coding endeavours==, but also ==myself==.
 
-**Learning in public** has become an increasingly popular practice, and a good way to hold yourself accountable.
+[Learning in public]() has become an increasingly popular practice, and a good way to hold yourself accountable.
 
 Here's how I intend to achieve that:
 
@@ -29,11 +31,11 @@ I will:
 and run a general [[DevLog]]
 
 <sup>Do keep in mind, what you're viewing now is also a Work In Progress!</sup>
-## What will the focus be?****
+## What will the focus be?
 
-Currently, **Front End Development**, prioritising:
+Currently, ==Front End Development==, prioritising:
 - [[HTML]]
-- [[CSS]] [[(Sass/Scss)]]
+- [[CSS]] [[(Sass & Scss)]]
 - [[JavaScript]]
 - the [[React framework]]
 
