@@ -1,0 +1,2 @@
+- [ ] Create templates for each category and for categories
+- [ ] Set this up!

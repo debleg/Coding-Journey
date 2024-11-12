@@ -8,9 +8,9 @@ description: Documenting my exploration of code and languages
 > 
 > If you've got the *==right mindset==*, you'll never want it to.
 
-# This is a Dev Log
+# *This is a Dev Log*
 
-My intent is to **document my development as a developer**.
+My intent is to ==**document my development as a developer**==.
 
 ## Why do this?
 
@@ -28,14 +28,15 @@ I will:
 - work through personal [[Projects]]
 - document what I find noteworthy in [[Snippets]]
 - ~~squirrel away~~ share [[Resources]]
-and run a general [[DevLog]]
+- run a general [[DevLog]]
+- share the occasional [[Thoughts]]
 
 <sup>Do keep in mind, what you're viewing now is also a Work In Progress!</sup>
 ## What will the focus be?
 
 Currently, ==Front End Development==, prioritising:
 - [[HTML]]
-- [[CSS]] [[(Sass & Scss)]]
+- [[CSS]] ([[Sass & Scss]])
 - [[JavaScript]]
 - the [[React framework]]
 
@@ -45,5 +46,4 @@ Expect also more [[Global Topics]] like [[Responsive]], [[Accessibility]], and m
 
 Deb, a French thirty-something Front-End Developer currently going through a course focusing on web integration.
 
-
-
+If you want to know what's going on at the moment, check out the [[Dashboard]]!
