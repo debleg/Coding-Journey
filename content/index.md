@@ -1,6 +1,7 @@
 ---
 title: DebLeg's Coding Journey
 description: Documenting my exploration of code and languages
+date:
 ---
 > Any attempt at learning is a *==journey==*.
 > 
@@ -10,13 +11,13 @@ description: Documenting my exploration of code and languages
 
 # *This is a Dev Log*
 
-My intent is to ==**document my development as a developer**==.
+My intent is to ==document my development as a developer==. See the [[DevLogs/|DevLogs List]] for the latest entry!
 
 ## Why do this?
 
 I won't just be developing ==websites== and other ==coding endeavours==, but also ==myself==.
 
-[Learning in public]() has become an increasingly popular practice, and a good way to hold yourself accountable.
+*Learning in public* has become an increasingly popular practice, and a good way to hold yourself accountable.
 
 Here's how I intend to achieve that:
 
@@ -25,25 +26,27 @@ Here's how I intend to achieve that:
 <sup>If you're new to this format, hovering over the links will give you a sneak peek!</sup>
 
 I will:
-- work through personal [[Projects]]
-- document what I find noteworthy in [[Snippets]]
-- ~~squirrel away~~ share [[Resources]]
-- run a general [[DevLog]]
-- share the occasional [[Thoughts]]
+- work through personal [[Projects/|Project]]
+- document what I find noteworthy in [[Snippets/|Snippets]]
+- ~~squirrel away~~ share [[Resources/|Resources]]
+- run a general [[DevLogs/|DevLog]]
+- share the occasional [[Thoughts/|Thoughts]]
 
-<sup>Do keep in mind, what you're viewing now is also a Work In Progress!</sup>
+<sup>Do keep in mind, what you're viewing now is also a Work In Progress! Currently not all links are functional yet as I'm still setting it up!</sup>
 ## What will the focus be?
 
 Currently, ==Front End Development==, prioritising:
-- [[HTML]]
-- [[CSS]] ([[Sass & Scss]])
-- [[JavaScript]]
-- the [[React framework]]
+- **HTML**
+- **CSS** (**SASS** & SCSS)
+- **JavaScript** (with **Typescript** as well)
+- **React**
 
-Expect also more [[Global Topics]] like [[Responsive]], [[Accessibility]], and more as I go along
+Expect also more global topics like **Accessibility(a11y)**, **Responsive design**, UI/UX, and more as I go along
 
 ## From whom?
 
-Deb, a French thirty-something Front-End Developer currently going through a course focusing on web integration.
+Deb (or DebLeg), a French thirty-something Front-End Developer currently going through a course focusing on web integration.
 
 If you want to know what's going on at the moment, check out the [[Dashboard]]!
+
+Find me on [github](https://github.com/debleg), portfolio to follow 😉
