@@ -5,7 +5,7 @@ tags:
   - devlog
 ---
 [[index|Back to the main page]]
-[[DevLogs/|DevLogs List]] - [Link to next devlog]()
+[[DevLogs/|DevLogs List]] - [[2025-08-06 Devlog - Looking into databases]]
 
 *Because this idea is a few months old and it's about time to set it up... iteratively*
 ## Recap
